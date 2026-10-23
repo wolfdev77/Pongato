@@ -1,0 +1,1 @@
+pontuacaomaxima = 3;
